@@ -1,0 +1,10 @@
+lazy loding technique
+-------------
+-module creation
+    ng g module modulename
+
+-lazy lodingmodule creation
+
+            ng g module moduleName --route moduleName --module rootmoduleName
+
+            
